@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 👨🏼‍🎓 BSc Computer Science and Engineering Student at TU Delft
+* 👨🏼‍🎓 BSc Computer Science and Engineering Student at TU Delft + (Exchange) Mathematics at KTH Stockholm
 * 📍 Spain + Netherlands
 * 📬 You can contact me at danieldediosallegue@gmail.com
 * 💻 Interested in ML/DL, Computational Finance and Software Engineering.
