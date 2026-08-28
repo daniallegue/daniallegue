@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-* 👨🏼‍🎓 BSc Computer Science and Engineering Student at TU Delft + (Exchange) Mathematics at KTH Stockholm
-* 📍 Spain + Netherlands
+* 👨🏼‍🎓 MPhil in Computer Science @ Cambridge (Fitz). Prev CS + Maths @ TUDelft, KTH.  
+* 📍 Currently in Cambridge, UK
 * 📬 You can contact me at danieldediosallegue@gmail.com
-* 💻 Interested in ML/DL, Computational Finance and Software Engineering.
+* 🧬 Interested in generative modelling for sciences (currently focused on biological settings)
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/daniel-de-dios-allegue/)
